@@ -1,5 +1,16 @@
 # Changelog
 
+## [7.0.0](https://github.com/googleapis/google-api-nodejs-client/compare/workstations-v6.15.0...workstations-v7.0.0) (2024-06-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* **workstations:** This release has breaking changes.
+
+### Features
+
+* **workstations:** update the API ([9757a61](https://github.com/googleapis/google-api-nodejs-client/commit/9757a6183f6b6e06b85c3f2863d8e48dd39d3af0))
+
 ## [6.15.0](https://github.com/googleapis/google-api-nodejs-client/compare/workstations-v6.14.0...workstations-v6.15.0) (2024-06-21)
 
 
