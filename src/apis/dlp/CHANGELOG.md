@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.2.0](https://github.com/googleapis/google-api-nodejs-client/compare/dlp-v10.1.0...dlp-v10.2.0) (2024-06-27)
+
+
+### Features
+
+* **dlp:** update the API ([8bf3a16](https://github.com/googleapis/google-api-nodejs-client/commit/8bf3a1604276df03350eb6f8646e8c3440e70ab3))
+
 ## [10.1.0](https://github.com/googleapis/google-api-nodejs-client/compare/dlp-v10.0.0...dlp-v10.1.0) (2024-06-03)
 
 

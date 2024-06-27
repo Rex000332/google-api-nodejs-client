@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.0](https://github.com/googleapis/google-api-nodejs-client/compare/walletobjects-v4.1.0...walletobjects-v4.2.0) (2024-06-27)
+
+
+### Features
+
+* **walletobjects:** update the API ([4ad37a1](https://github.com/googleapis/google-api-nodejs-client/commit/4ad37a1549a6f4c4ce00a5dafd20523063fe44e2))
+
 ## [4.1.0](https://github.com/googleapis/google-api-nodejs-client/compare/walletobjects-v4.0.0...walletobjects-v4.1.0) (2024-06-03)
 
 
