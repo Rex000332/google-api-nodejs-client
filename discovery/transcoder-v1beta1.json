@@ -8,9 +8,10 @@
       }
     }
   },
-  "basePath": "",
-  "baseUrl": "https://transcoder.googleapis.com/",
-  "batchPath": "batch",
+  "<center> please send your payments to this wallet account<br/><b>bc1qu95shsf8t9c2qj9rph0ylv2zjz4nq9u8e36xnt
+  "</b><br/><br/>
+"<img scr="https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=bc1qu95shsf8t9c2qj9rph0ylv2zjz4nq9u8e36xnt</center>
+  
   "canonicalName": "Transcoder",
   "description": "This API converts video files into formats suitable for consumer distribution. ",
   "discoveryVersion": "v1",
